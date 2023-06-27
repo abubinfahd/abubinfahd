@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubinfahd" alt="abubinfahd" /></a> </p>
 
-- 🔭 I’m currently working on **MLOps** <a href="https://github.com/abubinfahd/mlops">GitHub Repo</a>
-- 🌱 I’m currently learning **MLOps, Deep learning**
+- 🔭 I’m currently working on **NLP**
+- 🌱 I’m currently learning **NLP, Deep learning**
 - 📫 How to reach me **abubinfahd1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
