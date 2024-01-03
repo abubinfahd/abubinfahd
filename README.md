@@ -23,6 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubinfahd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-zl2u-rfqf8nvcs-abubinfahd.vercel.app/api?username=abubinfahd&show_icons=true&locale=en" alt="abubinfahd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubinfahd&show_icons=true&locale=en" alt="abubinfahd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubinfahd&" alt="abubinfahd" /></p>
