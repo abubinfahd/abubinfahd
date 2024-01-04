@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abu Bin Fahd</h1>
 <h3 align="center">BSc in Statistics from Khulna University | Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubinfahd&label=Profile%20views&color=0e75b6&style=flat" alt="abubinfahd" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubinfahd" alt="abubinfahd" /></a> </p>
 
 - 🔭 I’m currently working on [Deep Learning](https://github.com/abubinfahd/python_deep_learning), [Machine Learning](https://github.com/abubinfahd/ML-Algorithms)
