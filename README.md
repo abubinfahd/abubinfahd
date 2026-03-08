@@ -94,10 +94,8 @@ location:   🌍 Available Worldwide
 ## 📊 &nbsp; GitHub Pulse
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubinfahd&show_icons=true&bg_color=1a1a2e&border_color=A855F7&title_color=A855F7&icon_color=A855F7&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubinfahd&layout=compact&bg_color=1a1a2e&border_color=A855F7&title_color=A855F7&text_color=ffffff&hide_border=false&langs_count=8" />
-
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abubinfahd&show_icons=true&bg_color=1a1a2e&border_color=A855F7&title_color=A855F7&icon_color=A855F7&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abubinfahd&layout=compact&bg_color=1a1a2e&border_color=A855F7&title_color=A855F7&text_color=ffffff&hide_border=false&langs_count=8" />
 </div>
 
 <div align="center">
