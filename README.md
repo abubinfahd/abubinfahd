@@ -50,7 +50,7 @@ location:   🌍 Available Worldwide
 <div align="center">
 
 ### 🧠 &nbsp; Core AI / ML
-
+![Statistics](https://img.shields.io/badge/Statistics-1a1a2e?style=for-the-badge&logo=scipy&logoColor=A855F7)
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=A855F7)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
